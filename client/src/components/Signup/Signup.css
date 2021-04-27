@@ -1,0 +1,94 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+#root {
+    height: 100vh;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.signupOuterContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    background-color: #064576;
+}
+
+.signupInnerContainer {
+    width: 20%;
+}
+
+.signupInput {
+    border-radius: 0;
+    padding: 15px 20px;
+    width: 100%;
+    color: #0b2e13;
+}
+
+.heading {
+    color: white;
+    font-size: 2.5em;
+    padding-bottom: 10px;
+    border-bottom: 2px solid white;
+}
+
+.signupbutton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #274f93;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    border: none;
+    width: 100%;
+}
+
+.agreebtn {
+    color: #fff !important;
+    /*text-transform: uppercase;*/
+    text-decoration: none;
+    background: #0d47a1;
+    padding:8px;
+    border-radius: 8px;
+    display: inline-block;
+    border: none;
+    width: 30%;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+
+.imgwelcome {
+    display: flex;
+    width: 30%;
+    height: 30%;
+}
+/*@media (min-width: 320px) and (max-width: 480px) {*/
+/*    .signupOuterContainer {*/
+/*        height: 100%;*/
+/*    }*/
+
+/*    .signupInnerContainer {*/
+/*        width: 90%;*/
+/*    }*/
+
+
+/*}*/
+
+button:focus {
+    outline: 0;
+}
+
+.myDiv {
+    border: 5px inset #00b8d4;
+    background-color: #b2ebf2;
+    text-align: left;
+}

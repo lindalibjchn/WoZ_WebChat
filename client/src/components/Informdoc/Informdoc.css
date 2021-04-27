@@ -1,0 +1,20 @@
+.inforconsent-left{
+    display:inline-block;
+    float: left;
+    max-width: 80%;
+}
+
+.inforconsent-right{
+    float: right;
+    max-width: 20%;
+}
+.border{
+    border-bottom: 10px black;
+}
+
+.submit{
+    border-radius: 5px;
+    background: #008CBA;
+    float: right;
+    color:white
+}
