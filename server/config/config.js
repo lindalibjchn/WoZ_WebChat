@@ -1,5 +1,5 @@
 module.exports = {
-  dev_mongoURI:"mongodb+srv://lindali_bjchn:16992z57863Qq@cluster0.xsqyq.mongodb.net/WoZ_Chat?retryWrites=true&w=majority",
+  dev_mongoURI:"mongodb+srv://clusterusername:password@cluster0.xsqyq.mongodb.net/WoZ_Chat?retryWrites=true&w=majority",
   pro_mongoURI:""
 
 }
