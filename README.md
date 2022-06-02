@@ -12,9 +12,7 @@ Webapp Link: https://rt-webchatapp-v5.netlify.app
 ```
 @inproceedings{li-etal-2021-detecting,
     title = "Detecting interlocutor confusion in situated human-avatar dialogue: A pilot study",
-    author = "Li, Na  and
-      Kelleher, John D.  and
-      Ross, Robert",
+    author = "Li, Na  and Kelleher, John D. and Ross, Robert",
     booktitle = "Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers",
     month = sep,
     year = "2021",
